@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: all-templates
+  name: all-users-groups
 spec:
   type: url
   targets:
