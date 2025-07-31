@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
   name: entities
+  description: all entities 
 spec:
   targets:
-    - ./all-templates.yaml
+    - ./templates/all-templates.yaml
+    - ./org/all-org.yaml
