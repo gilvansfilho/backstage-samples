@@ -3,7 +3,6 @@ kind: Location
 metadata:
   name: all-users-groups
 spec:
-  type: url
   targets:
     - ./users.yaml
     - ./groups.yaml

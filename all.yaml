@@ -6,4 +6,4 @@ metadata:
 spec:
   targets:
     - ./templates/all-templates.yaml
-    - ./org/all-org.yaml
+    - ./org/all-users-groups.yaml
